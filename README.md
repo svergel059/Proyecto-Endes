@@ -19,3 +19,7 @@ Este proyecto contiene la estructura base y configuración inicial de un reposit
 * [CSS Avanzado](frontend/css-avanzado.md)
 * [JavaScript Moderno](frontend/javascript-moderno.md)
 * [Frameworks Frontend](frontend/frameworks.md)
+
+## 🤝 Contribuciones
+
+Agradecemos cualquier contribución para mejorar esta documentación. Por favor, consulta nuestra guía de contribución antes de enviar un Pull Request.
