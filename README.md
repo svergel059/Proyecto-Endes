@@ -5,7 +5,7 @@ Este proyecto contiene la estructura base y configuración inicial de un reposit
 **Autor:** Juan Sebastián Hernandez.
 **Fecha:** 2025-11-25
 
-## Tabla de Contenidos
+## 📚 Índice de Documentación
 - (Por completar)
 ## 📖 Tabla de Contenidos
 
